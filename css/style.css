@@ -307,7 +307,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 
 .page-style-1, .page-style-1 input, .page-style-1 textarea, .page-style-1 select {font-family: 'Ubuntu', sans-serif;}
 .page-style-1 .title {font-family: 'Great Vibes', cursive;}
-.page-style-1 .sub-title { font-size: 50px; line-height: 50px; text-transform: uppercase; font-weight: 700;}
+.page-style-1 .sub-title { font-size: 50px; line-height: 60px; text-transform: uppercase; font-weight: 700;}
 .page-style-1 .simple-sub-text {font-family: 'Bitter', serif;} 
 .page-style-1 h3, .page-style-1 h4, .page-style-1 h5, .page-style-1 h6 {font-weight: 700; text-transform: uppercase;}
 .page-style-1 .color-type-1 .simple-text p {color: rgba(255,255,255,0.6);}
