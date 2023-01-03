@@ -1157,7 +1157,7 @@ body.overflow {overflow: hidden;}
     .header-menu > li > a:before {content: ''; position: absolute; left: 0px; bottom: 27px; width: 0%; height: 1px; background: #fff;transition: all 0.35s ease-out; -webkit-transition: all 0.35s ease-out;-ms-transition: all 0.35s ease-out;}
     .header-menu > li > a:hover:before {width: 100%;}
     .menu-arr {display: none;}
-    .header.scrol {background: #181a1c; }
+    .header.scrol {background: #00000083; }
     .header.scrol:not(.header-style-2) {box-shadow: 0 0 4px rgba(0,0,0,0.2);}
     .header-style-2.scrol .nav {box-shadow: 0 0 4px rgba(0,0,0,0.2);}
     .header.scrol.header-style-2 {background: none;}
