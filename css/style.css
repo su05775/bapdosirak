@@ -53,6 +53,12 @@
 @import url('https://fonts.googleapis.com/css?family=Euphoria+Script');
 @import url('https://fonts.googleapis.com/css?family=Norican');
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@font-face {
+  font-family: 'KCC-eunyoung';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KCC-eunyoung-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 01 - RESET */
@@ -473,7 +479,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-style-1 .simple-item-style-1 {max-width: 850px; margin: 0 auto; display: block; overflow: hidden; padding: 50px 0px 0px 0px;}
 .page-style-1 .simple-item-style-1 .wrap-padding {padding: 0 120px;}
 .page-style-1 .simple-item-style-1 .button-wrap {display: inline-block; position: relative;}
-.page-style-1 .simple-item-style-1 .first-div {display: inline-block; padding: 0 30px; margin-top: -50px;}
+.page-style-1 .simple-item-style-1 .first-div {display: inline-block; padding: 0 30px; margin-top: -50px; font-family: 'KCC-eunyoung' !important;}
 
 @media (min-width: 480px) { 
 	.page-style-1 .simple-item-style-1 .first-div:before, .page-style-1 .simple-item-style-1 .button-wrap:before {content: ''; position: absolute; width: 600px; height: 1px; background: rgba(255,255,255,0.4); left: -600px; top: 50%;}
