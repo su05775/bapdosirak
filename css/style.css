@@ -65,6 +65,12 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'S-CoreDream-3Light';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 01 - RESET */
@@ -317,9 +323,9 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .line-sepp-2 {display: inline-block; vertical-align: middle;}
 .simple-sub-text p {color: #464646;}
 
-.page-style-1, .page-style-1 input, .page-style-1 textarea, .page-style-1 select {font-family: 'GmarketSansMedium';}
+.page-style-1, .page-style-1 input, .page-style-1 textarea, .page-style-1 select {font-family: 'S-CoreDream-3Light';}
 .page-style-1 .sub-title { font-size: 50px; line-height: 60px; font-weight: 700;}
-.page-style-1 .simple-sub-text {font-family: 'GmarketSansMedium'; font-weight: 300;} 
+.page-style-1 .simple-sub-text {font-family: 'S-CoreDream-3Light'; font-weight: 300;} 
 .page-style-1 h3, .page-style-1 h4, .page-style-1 h5, .page-style-1 h6 {font-weight: 700; text-transform: uppercase;}
 .page-style-1 .color-type-1 .simple-text p {color: rgba(255,255,255,0.6);}
 
@@ -484,7 +490,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-style-1 .simple-item-style-1 {max-width: 850px; margin: 0 auto; display: block; overflow: hidden; padding: 50px 0px 0px 0px;}
 .page-style-1 .simple-item-style-1 .wrap-padding {padding: 0 120px;}
 .page-style-1 .simple-item-style-1 .button-wrap {display: inline-block; position: relative;}
-.page-style-1 .simple-item-style-1 .first-div {display: inline-block; padding: 0 30px; margin-top: -50px; font-family: 'Treegarden' !important;}
+.page-style-1 .simple-item-style-1 .first-div {display: inline-block; padding: 0 30px; margin-top: -50px; font-family: 'S-CoreDream-3Light' !important;}
 
 @media (min-width: 480px) { 
 	.page-style-1 .simple-item-style-1 .first-div:before, .page-style-1 .simple-item-style-1 .button-wrap:before {content: ''; position: absolute; width: 600px; height: 1px; background: rgba(255,255,255,0.4); left: -600px; top: 50%;}
