@@ -1036,7 +1036,7 @@ textarea.input-field.sm {height: 125px;}
 .navigation {position: relative; max-width: 1520px; margin: 0 auto; justify-content: space-between;}
 .nav {position: relative; float: right; font-size: 0px;}
 .header-menu li a {color: inherit; position: relative;}
-.header-menu > li {display: inline-block; font-size: 12px; font-weight: 700; color: #fff; text-transform: uppercase; position: relative;}
+.header-menu > li {display: inline-block; font-size: 17px; font-weight: 700; color: #fff; text-transform: uppercase; position: relative;}
 .header-menu > li > a {padding: 43px 0px 41px; margin: 0px 25px; display: inline-block;}
 .header-menu > li > ul li {color: #898989; position: relative;}
 .header-menu > li > ul li a {padding: 10px 25px; display: inline-block;}
