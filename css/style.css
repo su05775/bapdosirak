@@ -495,7 +495,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 @media (min-width: 480px) { 
 	.page-style-1 .simple-item-style-1 .first-div:before, .page-style-1 .simple-item-style-1 .button-wrap:before {content: ''; position: absolute; width: 600px; height: 1px; background: rgba(255,255,255,0.4); left: -600px; top: 50%;}
 	.page-style-1 .simple-item-style-1 .first-div:after, .page-style-1 .simple-item-style-1 .button-wrap:after {content: ''; position: absolute; width: 600px; height: 1px; background: rgba(255,255,255,0.4); right: -600px; top: 50%;}
-	.page-style-1 .simple-item-style-1:before, .page-style-1 .simple-item-style-1:after {content: ''; position: absolute; top: 37.8px; bottom: 25px; width: 1px; background: rgba(255,255,255,0.4);}
+	.page-style-1 .simple-item-style-1:before, .page-style-1 .simple-item-style-1:after {content: ''; position: absolute; top: 41px; bottom: 25px; width: 1px; background: rgba(255,255,255,0.4);}
 	.page-style-1 .simple-item-style-1:after {right: 0px;}
 	.page-style-1 .simple-item-style-1:before {left: 0px;}
 }
